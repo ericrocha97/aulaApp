@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Aula App</string>
+    <string name="text_title">Aleatório</string>
+    <string name="text_resultado">Resultado</string>
+    <string name="btn_gerar">Gerar</string>
+    <string name="text_padrao">O número sorteado é </string>
+</resources>
